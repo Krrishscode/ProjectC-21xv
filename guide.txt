@@ -1,0 +1,16 @@
+Arrow keys -> Movement of your car
+
+shift -> exit from a level
+
+enter (when on home) -> lobby (where you can chose 
+levels)
+
+enter (when in level1 and distance === 1000 or more) -> next level i.e. level2
+
+r -> for replay a level
+
+space -> for -> horn 
+
+b -> for after gameover back to lobby
+
+If you find any bug or error in your game please give feedback to our email krrishpiyush2018@gmail.com  ;) :)
